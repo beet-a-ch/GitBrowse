@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://youtube.com",
+  "captured_at_utc": "2026-05-19T06:13:32.360226+00:00",
+  "domain": "youtube.com",
+  "slug": "youtube.com",
+  "timestamp": "20260519_061332",
+  "session_key": "youtube_com",
+  "persist_session": true,
+  "used_existing_session": false,
+  "save_response_bodies": true,
+  "max_response_body_mb": 2.0,
+  "max_asset_size_mb": 25.0,
+  "auto_scroll": true,
+  "include_videos": false,
+  "proxy": {
+    "enabled": false,
+    "mode": "none"
+  },
+  "final_url": "https://www.youtube.com/",
+  "offline_assets_saved": 154,
+  "offline_assets_skipped": 0,
+  "offline_assets_failed": 0,
+  "dom_link_count": 61,
+  "media_link_count": 5,
+  "session_path": "sessions/youtube_com.json",
+  "network_request_count": 144
+}
